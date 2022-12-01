@@ -12,5 +12,5 @@
 # Ref. site
 
 Vagrant Doc : [https://developer.hashicorp.com/vagrant/docs]   
-Vagrant boxes : [https://app.vagrantup.com/boxes/search] 
+Vagrant boxes : [https://app.vagrantup.com/boxes/search]   
 Vagrant Plugins : [https://github.com/hashicorp/vagrant/wiki/Available-Vagrant-Plugins]
