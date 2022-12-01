@@ -11,5 +11,5 @@
 
 # Ref. site
 
-Vagrant Doc : [https://developer.hashicorp.com/vagrant/docs]
+Vagrant Doc : [https://developer.hashicorp.com/vagrant/docs]   
 Vagrant boxes : [https://app.vagrantup.com/boxes/search] 
