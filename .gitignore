@@ -19,3 +19,4 @@ practiceVagrant/.vagrant/machines/ansible-server/virtualbox/private_key
 practiceVagrant/.vagrant/machines/ansible-server/virtualbox/synced_folders
 practiceVagrant/.vagrant/machines/ansible-server/virtualbox/vagrant_cwd
 practiceVagrant/.vagrant/
+practiceVagrant/data/*
